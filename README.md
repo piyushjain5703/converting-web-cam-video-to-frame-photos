@@ -4,5 +4,8 @@ this repository is for capturing video from web cam and then save it as frame wi
                                   *IMPORTANT NOTE*
                                   
 Don't forget to change folder path.
+
 Don't forget to install required libraries (matplotlib,opencv,numpy).
+
 In folder path, add path of already existing folder.
+
