@@ -1,5 +1,6 @@
 # converting-web-cam-video-to-frame-photos
 this repository is for capturing video from web cam and then save it as frame wise photos in new folder.
+
                                   *IMPORTANT NOTE*
                                   
 Don't forget to change folder path.
